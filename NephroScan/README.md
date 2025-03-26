@@ -12,20 +12,5 @@ NephroScan is an AI-powered medical diagnostic application that detects kidney s
 ✔ Interactive **Streamlit UI** for easy usage  
 ✔ Automatic **image processing and result display**  
 
----
 
-## 🛠 Installation  
 
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/your-repo/nephroscan.git
-cd nephroscan
-
-This README provides:  
-✅ **Project overview**  
-✅ **Features & installation steps**  
-✅ **How the app works**  
-✅ **Project structure**  
-✅ **Future enhancements**  
-
-Let me know if you need modifications! 🚀
